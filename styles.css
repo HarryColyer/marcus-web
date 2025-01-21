@@ -16,6 +16,9 @@ nav {
     margin-right: 1em;
     padding: 2em;
 }
+.logo {
+    font-family: ;
+}
 .nav-link-container {
     display: flex;
 }
